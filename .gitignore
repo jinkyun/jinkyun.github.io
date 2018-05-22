@@ -1,0 +1,14 @@
+*.gem
+.bundle
+_asset_bundler_cache
+codekit-config.json
+example/_site
+node_modules
+npm-debug.log*
+
+
+### Jekyll ###
+_site
+.sass-cache
+.jekyll-metadata
+Gemfile.lock
